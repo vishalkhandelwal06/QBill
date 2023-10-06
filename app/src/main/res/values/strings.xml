@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Just Bill</string>
+
+    <!--splash-->
+    <string name="powered_by_infosoft">Powered by InfoSoft</string>
+    <string name="lorem_ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+
+    <!--login-->
+    <string name="email">Email<font color='@android:color/white'>*</font></string>
+    <string name="your_email">Your Email</string>
+    <string name="password">Password<font color='@android:color/white'>*</font></string>
+    <string name="your_password">Your Password</string>
+    <string name="forget_password">Forgot Password?</string>
+    <string name="log_in">Log in</string>
+    <string name="please_enter_email_address">Please enter email address.</string>
+    <string name="please_enter_valid_email_address">Please enter valid email address.</string>\
+    <string name="please_enter_password">Please enter password.</string>
+
+    <!--home-->
+    <string name="please_press_back_again_to_exit">Please press back again to exit.</string>
+    <string name="log_out">Log Out</string>
+    <string name="home">Home</string>
+    <string name="my_playlist">My Playlist</string>
+    <string name="library">Library</string>
+    <string name="my_reward_point">My Reward Point</string>
+    <string name="refer_friends">Refer Friends</string>
+    <string name="coupons">Coupons</string>
+    <string name="my_wallet">My Wallet</string>
+    <string name="my_activities">My Activities</string>
+    <string name="settings">Settings</string>
+</resources>
